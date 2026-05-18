@@ -36,7 +36,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://e-learning-backend-iota.vercel.app",
+      "https://e-learning-frontend-psi.vercel.app",
     ],
     credentials: true,
   })
